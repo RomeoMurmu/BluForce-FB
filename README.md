@@ -23,8 +23,3 @@ what is my Facebook ID :  https://es.piliapp.com/facebook/id/
 * python2 bluforcefb.py
 
 <img src="https://github.com/AngelSecurityTeam/BluForce-FB/blob/master/foto_blueforce-fb.png">
-
-<h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
-
