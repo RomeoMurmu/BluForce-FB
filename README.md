@@ -14,7 +14,7 @@ what is my Facebook ID :  https://es.piliapp.com/facebook/id/
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/BluForce-FB
+* git clone https://github.com/RomeoMurmu/BluForce-FB
 
 * cd BluForce-FB
 
